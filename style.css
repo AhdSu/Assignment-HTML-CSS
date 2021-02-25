@@ -1,0 +1,11 @@
+ #mainbox{
+    display: flex;
+    /* display: inline-flex; */
+    justify-content: space-around;
+    padding: 160px 15px 160px 15px;
+}
+
+body{
+    background-color: #544F53;
+}
+
